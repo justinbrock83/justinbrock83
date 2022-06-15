@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Justin Brock
+- 👀 I’m interested in Electronics and Computer Engineering
+- 🌱 I’m currently learning Python and openAI
+- 💞️ I’m looking to collaborate on AI projects
